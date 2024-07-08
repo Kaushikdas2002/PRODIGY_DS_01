@@ -6,3 +6,7 @@ Welcome to my submission of Task 1 of the Data Science Internship at Prodigy Inf
 ## Dataset
 The data used for this task is sourced from the World Bank, specifically the total population dataset. You can find the dataset in this repository . 
 
+## Files
+
+![population](https://github.com/Kaushikdas2002/PRODIGY_DS_01/blob/main/Population_2023.png)
+A bar chart showing the top 10 countries by population in 2023.
