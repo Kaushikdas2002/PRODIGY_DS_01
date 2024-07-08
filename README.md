@@ -8,5 +8,11 @@ The data used for this task is sourced from the World Bank, specifically the tot
 
 ## Files
 
-![population](https://github.com/Kaushikdas2002/PRODIGY_DS_01/blob/main/Population_2023.png)
-A bar chart showing the top 10 countries by population in 2023.
+![population](https://github.com/Kaushikdas2002/PRODIGY_DS_01/blob/main/Population_2023.png)  
+A bar chart showing the top 10 countries by population in 2023.  
+
+![gender](https://github.com/Kaushikdas2002/PRODIGY_DS_01/blob/main/Gender_Distribution.png)  
+A bar chart depicting the gender distribution in the top 10 countries by population.  
+
+![distribution](https://github.com/Kaushikdas2002/PRODIGY_DS_01/blob/main/Population_distribution.png)  
+A world map showing the population distribution in 2023.  
