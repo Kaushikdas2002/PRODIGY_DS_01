@@ -22,21 +22,27 @@ Power BI: Used for creating interactive and detailed visualizations.
 
 ## Exploratory Data Analysis (EDA)
 
-Top 10 Countries by Population in 2023:  
+**Top 10 Countries by Population in 2023:**  
 India and China are the two most populous countries, with populations exceeding 1.4 billion each.  
 The United States, Indonesia, and Pakistan follow, with significantly lower populations ranging from 0.33 billion to 0.24 billion.  
 The other countries in the top 10 list include Nigeria, Brazil, Bangladesh, Russian Federation, and Mexico, with populations ranging from 0.22 billion to 0.13 billion.  
 
-Gender Distribution in the Top 10 Countries by Population:  
+**Gender Distribution in the Top 10 Countries by Population:**  
 Gender distribution is relatively balanced in most countries, with slight variations.  
 India and China show a slightly higher male population.  
 The Russian Federation has a higher female population, while countries like Indonesia and Pakistan have a nearly equal distribution.  
 
-Population Distribution in 2023:  
+**Population Distribution in 2023:** 
 The world map visualization shows the concentration of populations across different regions.    
 Asia has the highest concentration of populous countries, including China, India, and Indonesia.  
 There are notable population centers in North America, South America, Europe, and Africa.  
 
 ### These insights help in understanding the population structure and gender balance in the most populous countries globally, providing a foundation for further demographic studies and policy-making.
 
+## Contact
 
+For any questions or further information, please contact:
+
+Name: Kaushik Das
+Email: dask72544@gmail.com
+LinkedIn: https://www.linkedin.com/in/kaushik-das-303126236/
