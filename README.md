@@ -32,8 +32,8 @@ Gender distribution is relatively balanced in most countries, with slight variat
 India and China show a slightly higher male population.  
 The Russian Federation has a higher female population, while countries like Indonesia and Pakistan have a nearly equal distribution.  
 
-**Population Distribution in 2023:** 
-The world map visualization shows the concentration of populations across different regions.    
+**Population Distribution in 2023:**   
+The world map visualization shows the concentration of populations across different regions.      
 Asia has the highest concentration of populous countries, including China, India, and Indonesia.  
 There are notable population centers in North America, South America, Europe, and Africa.  
 
@@ -41,8 +41,8 @@ There are notable population centers in North America, South America, Europe, an
 
 ## Contact
 
-For any questions or further information, please contact:
+For any questions or further information, please contact:  
 
-Name: Kaushik Das
-Email: dask72544@gmail.com
-LinkedIn: https://www.linkedin.com/in/kaushik-das-303126236/
+Name: Kaushik Das  
+Email: dask72544@gmail.com  
+LinkedIn: https://www.linkedin.com/in/kaushik-das-303126236/  
